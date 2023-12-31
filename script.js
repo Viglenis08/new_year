@@ -110,5 +110,4 @@ function Run() {
   requestAnimationFrame(Run);
 }
 
-// Obtener el elemento de audio
 var miAudio = document.getElementById("miAudio");
