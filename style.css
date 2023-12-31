@@ -336,13 +336,13 @@ footer {
   width: 100%;
   background-color:#021936;
   color: blanchedalmond; 
-  padding: 10px; /* Ajusta el relleno según tus preferencias */
+  padding: 10px; 
   text-align: center;
 }
 
 .msg3 {
   font-family:'Caveat', cursive;
-  font-size: 18px; /* Ajusta el tamaño de fuente según tus preferencias */
+  font-size: 18px; 
 }
 
 .msg3 span {
@@ -690,13 +690,13 @@ footer {
   width: 100%;
   background-color:#021936;
   color: blanchedalmond; 
-  padding: 10px; /* Ajusta el relleno según tus preferencias */
+  padding: 10px; 
   text-align: center;
 }
 
 .msg3 {
   font-family:'Caveat', cursive;
-  font-size: 18px; /* Ajusta el tamaño de fuente según tus preferencias */
+  font-size: 18px; 
 }
 
 .msg3 span {
@@ -714,7 +714,6 @@ footer {
     color: #e3821b;
   }
 }
-
 .msg3 span {
   font-weight: bold;
   color: #140a6c;
