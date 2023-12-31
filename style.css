@@ -464,7 +464,7 @@ footer {
 }
 
 .old {
-  color: #fff;
+  color: #e90909;
   position: absolute;
   top: -0%;
   animation: old_animation 2.5s ease-in-out 4s forwards;
@@ -516,7 +516,7 @@ footer {
   }
   100% {
     right: 98px;
-    color: yellow;
+    color: rgb(245, 245, 90);
   }
 }
 
@@ -726,6 +726,5 @@ footer {
   color: #140a6c;
   animation: titilacion 2s infinite;
 }
-
 
 }
